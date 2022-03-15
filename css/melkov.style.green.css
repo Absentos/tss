@@ -1,0 +1,23 @@
+#top { background: url(../img/green/top-bg.png) repeat-x; }
+	#top-wrapper { background: url(../img/green/top-wrapper-bg.jpg) no-repeat top center; }
+		#menu { background: url(../img/green/left-menu-bg.png) no-repeat top left; }
+			#menu-right { background: url(../img/green/right-menu-bg.png) no-repeat top right; }
+				#menu-content { background: url(../img/green/content-menu-bg.png) repeat-x; }
+					ul#top-menu > li.current_page_item > a, ul#top-menu a:hover { color: #90a08d !important; }
+					ul.nav li ul { background: #E7E7E7 url(../img/green/dropdown-bg.png) repeat-y; }
+
+a.additional-info { background: url(../img/green/additional-info.png) no-repeat right bottom; }
+	a.additional-info span { background: url(../img/green/additional-info.png) no-repeat; }
+.post a.readmore, .reply-container { background: url(../img/green/readmore-black.png) no-repeat right bottom; }
+	.post a.readmore span, .reply-container a { background: url(../img/green/readmore-black.png) no-repeat; }
+	
+#footer { background: #111c16 url(../img/green/top-bg.png) repeat-x; }
+	#footer-top { background: url(../img/green/top-wrapper-bg.jpg) no-repeat top center; }
+		.footer-widget, .footer-widget a, p#copyright { color: #909d8b; }
+		ul.bottom-nav li.current_page_item a, ul.bottom-nav li a:hover { color: #909d8b !important; }
+		
+#slider-left-overlay { background: url(../img/green/slider-left-overlay.png) no-repeat; }
+#slider-right-overlay { background: url(../img/green/slider-right-overlay.png) no-repeat; }
+#bottom-light { background: url(../img/green/bottom-light-bg.png) no-repeat bottom center; }
+.footer-widget ul li { background: url(../img/green/footer-bullet.png) no-repeat 0 8px; }
+.wp-pagenavi span.current, .wp-pagenavi span.extend, .wp-pagenavi a:active, .wp-pagenavi a:hover { background: url(../img/green/pagenavi-bg-active.png) no-repeat; }
